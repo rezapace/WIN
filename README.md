@@ -4,6 +4,8 @@ berisikan tweak serta setingan untuk windows
 
 # oh-my-posh
 
+<details>
+<summary>Instalasi</summary>
 create folder
 trus buka powershell nya di folder nya
 (run administrator)
@@ -49,9 +51,6 @@ vscode C:\Users\R\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
 link download font
 
 ```
-
-```
-
 https://www.nerdfonts.com/
 
 ```
@@ -65,6 +64,7 @@ https://www.microsoft.com/store/productId/9N0DX20HK701
 ```
 
 ubah font nya di vscode nya juga
+
 ```
 
 ctrl+shift+p
@@ -77,4 +77,4 @@ pilih yang personal tambahkan
 
 ```
 
-```
+</details>
