@@ -80,6 +80,7 @@ pilih yang personal tambahkan
 profle setting
 
 <details>
+
 ```
 # Import Terminal Icons
 Import-Module -Name Terminal-Icons
@@ -692,6 +693,6 @@ if (Test-Path($ChocolateyProfile)) {
 }
 
 ```
+
 </details>
 </details>
-```
