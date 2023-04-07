@@ -8,11 +8,11 @@ create folder
 trus buka powershell nya di folder nya
 (run administrator)
 
-'''
+''''
 irm "https://github.com/ChrisTitusTech/powershell-profile/raw/main/setup.ps1" | iex
 
 abis itu yess to all
-'''
+''''
 
 extrack file cove.zip
 
