@@ -580,7 +580,7 @@ cd C:\scrcpy-win64-v2.0
 
 # open api gpt 3
 
-$script:OpenAI_Key = "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"
+$script:OpenAI_Key = "isi api nya"
 
 function ask
 {
