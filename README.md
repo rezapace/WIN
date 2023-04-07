@@ -6,6 +6,20 @@ berisikan tweak serta setingan untuk windows
 
 <details>
 <summary>Instalasi</summary>
+
+saya menyimpan setingan di folder
+
+```
+C:\tools
+
+// yang berisikan
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        2/15/2023   9:25 PM        3928576 ﬓ  fzf.exe
+-a----         4/4/2023  10:25 PM            567   s.json
+-a----         4/4/2023  10:16 PM           3432   stelbent.minimal.omp.json
+```
+
 create folder
 trus buka powershell nya di folder nya
 (run administrator)
